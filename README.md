@@ -1,4 +1,4 @@
-# 42-so-long
+# 42-so_long
 
 Jogo 2D com coletáveis e saída, utilizando a biblioteca gráfica mlx. <br>
 Possui diversas verificações: conexão gráfica, mapas não jogáveis, entre outras, todas com mensagens de erro personalizadas e encerrando sem vazamentos de memória. <br>
