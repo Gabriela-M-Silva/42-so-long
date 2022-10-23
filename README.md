@@ -1,9 +1,9 @@
 # 42-so_long
 
 Jogo 2D com coletáveis e saída, utilizando a biblioteca gráfica mlx. <br>
-Possui diversas verificações como: falta de conexão gráfica, mapas não jogáveis etc, todas com mensagem de erro personalizada e encerrando sem vazamentos de memória. <br>
+Possui diversas verificações como: falta de conexão gráfica, mapas não jogáveis etc; todas com mensagem de erro personalizada e encerrando sem vazamentos de memória. <br>
 
-Como jogar: clonar o repositório e utilizar o comando "make", após criar o executável, utilize "./so_long ./maps/map.ber" ou qualquer outro mapa a sua escolha (ver pasta "maps")<br>
+Como jogar: clonar o repositório e utilizar o comando "make", após criar o executável, utilize "./so_long ./maps/map.ber" ou qualquer outro mapa a sua escolha (ver pasta "maps").<br>
 Movimentação: teclas WASD <br>
 Fechar o jogo: ESC, X na tela ou ganhar o game :) <br>
 
